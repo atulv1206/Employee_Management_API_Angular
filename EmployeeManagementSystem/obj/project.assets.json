@@ -5156,11 +5156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectUniqueName": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "projectName": "EmployeeManagementSystem",
-      "projectPath": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectPath": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-      "outputPath": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\obj\\",
+      "outputPath": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
