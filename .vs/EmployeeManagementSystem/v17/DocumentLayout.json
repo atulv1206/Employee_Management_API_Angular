@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Working\\DotNetCore\\EmpManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\employeemanagementsystem\\employeemanagementsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\employeemanagementsystem\\employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\employeemanagementsystem\\employeemanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\working\\dotnetcore\\empmanagementsystem\\employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30381AD1-BCBA-4F5C-AC3C-01A859317EAB}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250412090549_addedprofileimageinuser.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Migrations\\20250412090549_addedprofileimageinuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:05:50.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entity\\User.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Entity\\User.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:04:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Models\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\ProfileDto.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Models\\ProfileDto.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\ProfileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:18.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Entity\\Employee.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:57:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAywDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:01:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA2wBwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:35:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAIBCwEcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:32:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\Repository.cs",
-              "ToolTip": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Data\\Repository.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Data\\Repository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA8wCoAAAAvAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wCYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T18:13:07.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
+              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\IRepository.cs",
-              "ToolTip": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Working\\DotNetCore\\EmpManagementSystem\\EmployeeManagementSystem\\Data\\IRepository.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Data\\IRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAsAAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:08:22.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Entity\\Employee.cs",
-              "ToolTip": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Entity\\Employee.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Entity\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:11:12.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Working\\DotNetCore\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAA+wCkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:06:14.476Z",
+              "WhenOpened": "2025-04-05T18:08:22.302Z",
               "EditorCaption": ""
             }
           ]
